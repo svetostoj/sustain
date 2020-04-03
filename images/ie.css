@@ -1,0 +1,36 @@
+FIELDSET {
+	MARGIN-BOTTOM: 20px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#steptwo {
+	MARGIN-BOTTOM: 50px
+}
+LEGEND {
+	MARGIN-BOTTOM: 20px
+}
+* HTML .clearfix {
+	HEIGHT: 1%
+}
+* + HTML .clearfix {
+	DISPLAY: inline-block
+}
+.clearfix:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+#menu LI UL {
+	MARGIN-LEFT: -113px! important
+}
+#header {
+	BACKGROUND: url(../images/header.jpg) #fff no-repeat right top; OVERFLOW: hidden; HEIGHT: 138px! important
+}
+#side-overlay {
+	BEHAVIOR: url(iepngfix.htc)
+}
+#logo {
+	BEHAVIOR: url(iepngfix.htc)
+}
+#logo H1 A {
+	BEHAVIOR: url(iepngfix.htc)
+}
+#p-home #copy {
+	WIDTH: 400px! important
+}
